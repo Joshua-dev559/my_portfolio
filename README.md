@@ -1,15 +1,15 @@
 # my_portfolio
 
-# Hi there 👋, I'm [Joshua Mbilli]
+# Hi there 👋, I'm Joshua Mbilli
 
 ## 🚀 About Me
 
 I'm a passionate [Software Developer] who enjoys building impactful solutions and continuously learning new technologies.
 
-- 🌱 Currently learning: **[Python (specifically Flask and FastAPI)]**
-- 💼 Interested in: **[Web Development, AI, Cloud Computing, Cybersecurity, etc.]**
-- 🎯 Goal: **[Become a Software Developer]**
-- ⚡ Fun fact: **[I love Adventure]**
+- 🌱 Currently learning: **Python (specifically Flask and FastAPI)**
+- 💼 Interested in: **Web Development, AI, Cloud Computing, Cybersecurity, etc.**
+- 🎯 Goal: **Become a Software Developer**
+- ⚡ Fun fact: **I love Adventure**
 
 ---
 
@@ -27,7 +27,6 @@ I'm a passionate [Software Developer] who enjoys building impactful solutions an
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -48,15 +47,6 @@ A simple calculator web application built with HTML, CSS, and JavaScript. It can
 **Tech:** JavaScript, HTML5, CSS
 
 🔗 [Repository](https://joshua-dev559.github.io/Calculator.js/)
-
----
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
